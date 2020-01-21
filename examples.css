@@ -14,11 +14,8 @@ p {
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    padding: 2rem;
+    padding: 1rem;
     color: rgb(219, 219, 0);
+    background-color: gray;
 }
 
-.main{
-    color: rgb(219, 219, 0);
-    background-color:gray;
-}
