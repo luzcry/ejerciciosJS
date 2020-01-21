@@ -1,0 +1,20 @@
+body {
+    background: #CAC531;  
+    background: -webkit-linear-gradient(to right, #F3F9A7, #CAC531);  
+    background: linear-gradient(to right, #F3F9A7, #CAC531); 
+    font-size: 25px;
+    }
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1rem;
+    margin: 2rem;
+    color: rgb(21, 156, 123);
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(14, 13, 13);
+    padding: 2rem;
+}
+
