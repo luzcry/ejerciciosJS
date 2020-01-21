@@ -12,10 +12,11 @@ p {
     color: rgb(21, 156, 123);
 }
 h1 {
+    color: rgb(133, 133, 13);
+    background-color: gray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     padding: 1rem;
-    color: rgb(80, 80, 16);
-    background-color: gray;
+    
 }
 
