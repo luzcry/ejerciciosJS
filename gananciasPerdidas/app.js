@@ -10,4 +10,7 @@ let tax = grossProfit*taxes/100;
 
 let netIncome =grossProfit-tax
 
+const div = document.createElement("div");
+div.className = "answers";
+div.innerHTML = "Tu ganancia neta es de $" + netIncome;
 document.write ("Tu ganancia neta es de $" + netIncome);
