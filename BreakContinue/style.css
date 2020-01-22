@@ -1,0 +1,41 @@
+body {
+    background: #CAC531;  
+    background: -webkit-linear-gradient(to right, #F3F9A7, #CAC531);  
+    background: linear-gradient(to right, #F3F9A7, #CAC531); 
+    font-size: 25px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1rem;
+    margin: 1rem;
+    color: rgb(41, 201, 161);
+}
+h1 {
+    color:yellow;
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 1rem;
+    
+}
+
+#txt {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(184, 184, 38);
+    padding: 1rem;
+    margin: 1rem;
+}
+
+#txt2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(184, 184, 38);
+    padding: 1rem;
+    margin: 1rem;
+}
+#txt3 {
+    color: rgb(65, 81, 153);
+    padding: 1rem;
+    margin: 1rem;
+}
+
