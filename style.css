@@ -1,8 +1,11 @@
 img {
-    content: 15px;
-    padding: 5px 5px 0px 5px;
+    align-items: center;
+    
     display: block;
     margin: auto;
+    background-color: gray;
+    border-radius: 2rem;
+    padding: 1rem;
 }
 
 body {
